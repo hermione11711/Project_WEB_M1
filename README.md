@@ -29,7 +29,7 @@ Notre site offre des mises à jour en temps réel, des analyses de marché, et d
 - [Fonctionnalités Principales](#fonctionnalités-principales)
 - [Guide de Débutant](#guide-de-débutant)
 - [Outils d'Analyse de Marché](#outils-danalyse-de-marché)
-- [Nous contacter](#nous-contacter)
+
 
 ## Fonctionnalités Principales
 
@@ -56,13 +56,6 @@ Accédez à des outils d'analyse complets pour évaluer la performance du march�
 > **Note**: Assurez-vous de consulter nos Termes de Service, Politique de Confidentialité, et Politique de Cookies pour une utilisation en toute sécurité de notre plateforme.
 
 ---
-
-## Nous contacter
-
-Pour toute question ou feedback, n'hésitez pas à nous contacter. Merci de choisir notre plateforme pour vos besoins en informations financières et cryptographiques.
-
-
-
 
 
 ### Customize configuration
